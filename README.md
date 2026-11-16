@@ -4,10 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=First-year+Computer+Science+student;Full-stack+developer+in+the+making;Backend+%7C+APIs+%7C+Cloud+infrastructure;Aspiring+software+engineer)](https://github.com/Al3xx38)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-60A5FA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Al3xx38)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Alexandru-Enea)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alexenea.20)
-
 <img src="https://komarev.com/ghpvc/?username=Al3xx38&label=Profile+views&color=60a5fa&style=flat" alt="Profile views" />
 
 </div>
@@ -92,23 +88,10 @@ A full-stack log analysis platform. I own the backend API, authentication and th
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Al3xx38&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al3xx38&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=Al3xx38&theme=radical&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
 ## 🌱 Currently
 
 - 🔨 Building **ReAct Agent** (backend, auth, Tauri desktop app)
-- 📚 Studying algorithms, computer systems architecture (Assembly, C), calculus and algebraic structures
+- 📚 Studying algorithms, computer systems architecture, calculus and algebraic structures
 - 🎯 Aiming for backend and cloud infrastructure roles
 
 ---
