@@ -4,10 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=First-year+Computer+Science+student;Full-stack+developer+in+the+making;Backend+%7C+APIs+%7C+Cloud+infrastructure;Aspiring+software+engineer)](https://github.com/Al3xx38)
 
-<img src="https://komarev.com/ghpvc/?username=Al3xx38&label=Profile+views&color=60a5fa&style=flat" alt="Profile views" />
-
-</div>
-
 ---
 
 ## 💫 About Me
