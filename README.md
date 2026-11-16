@@ -11,10 +11,8 @@
 - 🎓 B.Sc. in **Computer Science** at the **University of Bucharest** (2026 – 2029)
 - 💻 Full-stack developer at the beginning of my journey, with a strong focus on **backend engineering** and **cloud infrastructure**
 - 🧠 Passionate about **algorithms**: I started with C++ in 9th grade and competed in the county informatics Olympiad
-- 🎮 It all began at 12, when I taught myself **C#** and **Unity** to build my own game
-- 🌍 Took part in **Erasmus+ Project 4IT** in Paphos, Cyprus, working in an international team on IoT firmware (C++) and web apps
 - 🤝 Volunteer at **ASMI** (Association of Mathematics and Informatics Students), Management & Fundraising department
-- 🎹 Outside of code: piano, anime, gym and basketball (go Lakers 💜💛)
+- 🎹 Outside of code: piano, anime, gym and basketball
 
 ---
 
