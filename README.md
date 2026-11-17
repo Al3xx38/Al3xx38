@@ -1,6 +1,6 @@
 # Hi, I'm Alexandru Enea 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&vCenter=true&width=600&lines=CS+student+%40+University+of+Bucharest;Backend+%26+Cloud+Infrastructure;Building+full-stack+tools+%26+APIs)](https://github.com/Al3xx38)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&vCenter=true&width=600&lines=CS+student+%40+University+of+Bucharest;Full-stack+Developer)](https://github.com/Al3xx38)
 
 ---
 
