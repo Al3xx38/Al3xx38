@@ -68,7 +68,7 @@ A full-stack log analysis platform. I handle the backend API, authentication, an
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat&logo=tauri&logoColor=white)
 
-** DevOps & Tools**
+**DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
