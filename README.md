@@ -68,24 +68,12 @@ A full-stack log analysis platform. I handle the backend API, authentication, an
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat&logo=tauri&logoColor=white)
 
-**Cloud, DevOps & Tools**
+** DevOps & Tools**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## Currently
-
-- Building **ReAct Agent** (backend, auth, and Tauri desktop app)
-- Studying algorithms, computer systems architecture, calculus, and algebraic structures
-- Looking for backend or cloud infrastructure opportunities
-
----
 
 ## Random Dev Quote
 
